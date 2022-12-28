@@ -1,0 +1,17 @@
+{
+    "reviewing": true
+    "removebg_blacklist":[
+        "/pricing",
+        "www.unscreen.com",
+        "www.kaleido",
+        "https://www.remove.bg/sample_images",
+        "/sample_images",
+        "/tools-api",
+        "/sign_up",
+        "/g/individuals",
+        "/g/marketing",
+        "/g/photographers",
+        "/g/developers",
+        "/sign_in",
+        "/design_templates"]
+}
