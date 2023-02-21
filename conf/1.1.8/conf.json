@@ -1,3 +1,5 @@
 {
-    "in_review":true
+    "in_review":true,
+    "enable_unsplash":true,
+    "enable_removebg":true
 }
