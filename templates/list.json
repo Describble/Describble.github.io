@@ -6,35 +6,35 @@
           "name":"Happy Mother's Day",
           "size":1861442,
           "archive":"happy_mothers_day.scribir",
-          "thumb":"happy_mothers_day.jpg",
+          "thumb":"happy_mothers_day.jpg"
         },
         {
           "uid":2,
           "name":"Inspiring Women",
           "size":2791034,
           "archive":"inspiring_women.scribir",
-          "thumb":"inspiring_women.jpg",
+          "thumb":"inspiring_women.jpg"
         },
         {
           "uid":3,
           "name":"International Women's Day",
           "size":599331,
           "archive":"international_womens_day.scribir",
-          "thumb":"international_womens_day.jpg",
+          "thumb":"international_womens_day.jpg"
         },
         {
           "uid":4,
           "name":"Introduce Yourself",
-          "size":2257804 ,
+          "size":2257804,
           "archive":"introduce_yourself.scribir",
-          "thumb":"introduce_yourself.jpg",
+          "thumb":"introduce_yourself.jpg"
         },
         {
           "uid":5,
           "name":"Stay Safe",
           "size":3367994,
           "archive":"stay_safe.scribir",
-          "thumb":"stay_safe.jpg",
-        },
+          "thumb":"stay_safe.jpg"
+        }
     ]
 }
