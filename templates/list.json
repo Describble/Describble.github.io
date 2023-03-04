@@ -5,6 +5,7 @@
           "uid":1,
           "name":"Happy Mother's Day",
           "size":1861442,
+          "duration":11000,
           "archive":"happy_mothers_day.scribir",
           "thumb":"happy_mothers_day.jpg"
         },
@@ -12,6 +13,7 @@
           "uid":2,
           "name":"Inspiring Women",
           "size":2791034,
+          "duration":91000,
           "archive":"inspiring_women.scribir",
           "thumb":"inspiring_women.jpg"
         },
@@ -19,6 +21,7 @@
           "uid":3,
           "name":"International Women's Day",
           "size":599331,
+          "duration":10000,
           "archive":"international_womens_day.scribir",
           "thumb":"international_womens_day.jpg"
         },
@@ -26,6 +29,7 @@
           "uid":4,
           "name":"Introduce Yourself",
           "size":2257804,
+          "duration":82000,
           "archive":"introduce_yourself.scribir",
           "thumb":"introduce_yourself.jpg"
         },
@@ -33,6 +37,7 @@
           "uid":5,
           "name":"Stay Safe",
           "size":3367994,
+          "duration":12000,
           "archive":"stay_safe.scribir",
           "thumb":"stay_safe.jpg"
         }
