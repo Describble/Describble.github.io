@@ -24,5 +24,7 @@
         "com.apple.reminders.sharingextension",
         "com.apple.mobilenotes.SharingExtension",
         "com.apple.UIKit.activity.OpenInIBooks",
-        "com.amazon.Lassen.SendToKindleExtension"]
+        "com.amazon.Lassen.SendToKindleExtension",
+        "com.apple.UIKit.activity.AddToReadingList",
+        "ccom.apple.UIKit.activity.AssignToContact"]
 }
