@@ -12,5 +12,17 @@
         "/g/photographers",
         "/g/developers",
         "/sign_in",
-        "/design_templates"]
+        "/design_templates"],
+    "share_app_filter":[
+        "com.apple.UIKit.activity.AirDrop",
+        "com.apple.UIKit.activity.CopyToPasteboard",
+        "com.apple.UIKit.activity.SaveToCameraRoll",
+        "com.apple.UIKit.activity.Print",
+        "com.apple.UIKit.activity.MarkupAsPDF",
+        "com.google.chrome.ios.ShareExtension",
+        "com.getdropbox.Dropbox.ActionExtension",
+        "com.apple.reminders.sharingextension",
+        "com.apple.mobilenotes.SharingExtension",
+        "com.apple.UIKit.activity.OpenInIBooks",
+        "com.amazon.Lassen.SendToKindleExtension"]
 }
