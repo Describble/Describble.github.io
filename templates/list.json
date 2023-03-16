@@ -2,6 +2,14 @@
     "bucket":"https://describble.github.io/templates",
     "list" : [
         {
+          "uid":"7",
+          "name":"7-Point Whiteboard Story - Narrative",
+          "size":5079643,
+          "duration":180000,
+          "archive":"7_point_whiteboard_story_narrative.scribir",
+          "thumb":"7_point_whiteboard_story_narrative.jpg"
+        },
+        {
           "uid":"1",
           "name":"Happy Mother's Day",
           "size":1861442,
