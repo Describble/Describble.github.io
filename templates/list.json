@@ -2,6 +2,14 @@
     "bucket":"https://describble.github.io/templates",
     "list" : [
         {
+          "uid":"8",
+          "name":"Whiteboard Process - Writing",
+          "size":5373045,
+          "duration":210000,
+          "archive":"whiteboard_process_writing.scribir",
+          "thumb":"whiteboard_process_writing.jpg"
+        },
+        {
           "uid":"7",
           "name":"7-Point Whiteboard Story - Narrative",
           "size":5079643,
