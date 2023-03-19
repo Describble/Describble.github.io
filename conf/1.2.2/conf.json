@@ -1,5 +1,5 @@
 {
-    "in_review":false,
+    "in_review":true,
     "enable_unsplash":true,
-    "enable_removebg":true
+    "enable_removebg":false
 }
