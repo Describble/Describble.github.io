@@ -2,6 +2,14 @@
     "bucket":"https://describble.github.io/templates",
     "list" : [
         {
+          "uid":"12",
+          "name":"Whiteboard Explainer - Green Collage",
+          "size":605004,
+          "duration":44000,
+          "archive":"whiteboard_explainer_green_collage.scribir",
+          "thumb":"whiteboard_explainer_green_collage.jpg"
+        },
+        {
           "uid":"9",
           "name":"Good Egg Easter Greeting",
           "size":1711937,
