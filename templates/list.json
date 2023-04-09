@@ -2,6 +2,14 @@
     "bucket":"https://describble.github.io/templates",
     "list" : [
         {
+          "uid":"13",
+          "name":"Graffiti - Theme",
+          "size":6928568,
+          "duration":88000,
+          "archive":"graffiti_theme.scribir",
+          "thumb":"graffiti_theme.jpg"
+        },
+        {
           "uid":"12",
           "name":"Whiteboard Explainer - Green Collage",
           "size":605004,
