@@ -26,5 +26,6 @@
         "com.apple.UIKit.activity.OpenInIBooks",
         "com.amazon.Lassen.SendToKindleExtension",
         "com.apple.UIKit.activity.AddToReadingList",
-        "ccom.apple.UIKit.activity.AssignToContact"]
+        "ccom.apple.UIKit.activity.AssignToContact"],
+    "dropbox_file_dl_host":"dl.dropboxusercontent.com"
 }
