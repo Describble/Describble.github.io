@@ -7,7 +7,8 @@
           "size":6928568,
           "duration":88000,
           "archive":"graffiti_theme.scribir",
-          "thumb":"graffiti_theme.jpg"
+          "thumb":"graffiti_theme.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"12",
@@ -15,7 +16,8 @@
           "size":605004,
           "duration":44000,
           "archive":"whiteboard_explainer_green_collage.scribir",
-          "thumb":"whiteboard_explainer_green_collage.jpg"
+          "thumb":"whiteboard_explainer_green_collage.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"9",
@@ -23,7 +25,8 @@
           "size":1711937,
           "duration":16000,
           "archive":"good_egg_easter_greeting.scribir",
-          "thumb":"good_egg_easter_greeting.jpg"
+          "thumb":"good_egg_easter_greeting.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"11",
@@ -31,7 +34,8 @@
           "size":3569060,
           "duration":137000,
           "archive":"whiteboard_explainer_collage.scribir",
-          "thumb":"whiteboard_explainer_collage.jpg"
+          "thumb":"whiteboard_explainer_collage.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"10",
@@ -39,7 +43,8 @@
           "size":5249618,
           "duration":187000,
           "archive":"7_point_whiteboard_story_progress.scribir",
-          "thumb":"7_point_whiteboard_story_progress.jpg"
+          "thumb":"7_point_whiteboard_story_progress.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"8",
@@ -47,7 +52,8 @@
           "size":5373045,
           "duration":210000,
           "archive":"whiteboard_process_writing.scribir",
-          "thumb":"whiteboard_process_writing.jpg"
+          "thumb":"whiteboard_process_writing.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"7",
@@ -55,7 +61,8 @@
           "size":5079643,
           "duration":180000,
           "archive":"7_point_whiteboard_story_narrative.scribir",
-          "thumb":"7_point_whiteboard_story_narrative.jpg"
+          "thumb":"7_point_whiteboard_story_narrative.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"1",
@@ -63,7 +70,8 @@
           "size":1861442,
           "duration":11000,
           "archive":"happy_mothers_day.scribir",
-          "thumb":"happy_mothers_day.jpg"
+          "thumb":"happy_mothers_day.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"6",
@@ -71,7 +79,8 @@
           "size":1140492,
           "duration":130000,
           "archive":"to_the_best_mother.scribir",
-          "thumb":"to_the_best_mother.jpg"
+          "thumb":"to_the_best_mother.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"2",
@@ -79,7 +88,8 @@
           "size":2791034,
           "duration":91000,
           "archive":"inspiring_women.scribir",
-          "thumb":"inspiring_women.jpg"
+          "thumb":"inspiring_women.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"3",
@@ -87,7 +97,8 @@
           "size":599331,
           "duration":10000,
           "archive":"international_womens_day.scribir",
-          "thumb":"international_womens_day.jpg"
+          "thumb":"international_womens_day.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"4",
@@ -95,7 +106,8 @@
           "size":2257804,
           "duration":82000,
           "archive":"introduce_yourself.scribir",
-          "thumb":"introduce_yourself.jpg"
+          "thumb":"introduce_yourself.jpg",
+          "ratio":1.77777777
         },
         {
           "uid":"5",
@@ -103,7 +115,8 @@
           "size":3367994,
           "duration":123000,
           "archive":"stay_safe.scribir",
-          "thumb":"stay_safe.jpg"
+          "thumb":"stay_safe.jpg",
+          "ratio":1.77777777
         }
     ]
 }
