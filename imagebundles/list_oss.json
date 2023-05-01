@@ -14,7 +14,7 @@
           "size":"27.7 MB",
           "description":"Selected images for VideoScribe's image library.",
           "cover":"https://describble.github.io/imagebundles/assets/images/vs_package_cover.jpg",
-          "download":"https://www.dropbox.com/s/tmoogewes345hqr/scribbles.zip?dl=1",
+          "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/Scribbles.zip",
         },
         {
           "uid":"5b29840ab1cb49249d0d1d0bccf5cb0a",
@@ -22,7 +22,7 @@
           "size":"34.9 MB",
           "description":"This image package contains 2500 exquisite emoji icons.",
           "cover":"https://describble.github.io/imagebundles/assets/images/emoji_icon_bundle_cover.jpg",
-          "download":"https://www.dropbox.com/s/5pxmfi70h5q6uyn/emojis.zip?dl=1",
+          "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/Emojis.zip",
         },
         {
           "uid":"391aed7cae554f79b1a1e481d3bd92fb",
@@ -30,7 +30,7 @@
           "size":"21.1 MB",
           "description":"This image package contains over 400 GIF images.",
           "cover":"",
-          "download":"https://www.dropbox.com/s/yjt3tvymhkhgz7g/GIFs.zip?dl=1",
+          "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/GIFs.zip",
         },
     ]
 }
