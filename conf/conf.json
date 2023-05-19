@@ -27,5 +27,9 @@
         "com.amazon.Lassen.SendToKindleExtension",
         "com.apple.UIKit.activity.AddToReadingList",
         "ccom.apple.UIKit.activity.AssignToContact"],
-    "dropbox_file_dl_host":"dl.dropboxusercontent.com"
+    "dropbox_file_dl_host":"dl.dropboxusercontent.com",
+    "bark":{
+        "Downloads":["LjTCCFAWU8iZRyT6GA7kUZ"],
+        "Purchases":["LjTCCFAWU8iZRyT6GA7kUZ","tdovGbfKRnf9hPLvQZ882T"]
+    }
 }
