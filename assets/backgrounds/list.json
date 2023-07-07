@@ -1,53 +1,53 @@
 {
-    "bucket" : "https://flixcribir-assets.oss-us-east-1.aliyuncs.com"
+    "bucket" : "https://flixcribir-assets.oss-us-east-1.aliyuncs.com",
     "list" : [
         {
           "uid":"7934ab5de69746398f823d815126a678",
           "name":"black-chalkboard-background",
           "path":"/images/background/black-chalkboard-background.jpeg",
-          "cover":"/images/background/black-chalkboard-background_cover.jpeg",
+          "cover":"/images/background/black-chalkboard-background_cover.jpeg"
         },
         {
           "uid":"b0527cbac7d5459c83aa8c5d89a48d73",
           "name":"brick-wall-painted-white",
           "path":"/images/background/brick-wall-painted-white.jpeg",
-          "cover":"/images/background/brick-wall-painted-white_cover.jpeg",
+          "cover":"/images/background/brick-wall-painted-white_cover.jpeg"
         },
         {
           "uid":"bcd4e9d610354f48b362a0851b60c744",
           "name":"design-space-paper-textured-background",
           "path":"/images/background/design-space-paper-textured-background.jpeg",
-          "cover":"/images/background/design-space-paper-textured-background_cover.jpeg",
+          "cover":"/images/background/design-space-paper-textured-background_cover.jpeg"
         },
         {
           "uid":"b5e4823e89c74486824f9f239e290cae",
           "name":"empty-blackboard",
           "path":"/images/background/empty-blackboard.jpeg",
-          "cover":"/images/background/empty-blackboard_cover.jpeg",
+          "cover":"/images/background/empty-blackboard_cover.jpeg"
         },
         {
           "uid":"efa47196f93c4abc9dca383e16f418df",
           "name":"gray-color-cotton-texture-surface-background",
           "path":"/images/background/gray-color-cotton-texture-surface-background.jpeg",
-          "cover":"/images/background/gray-color-cotton-texture-surface-background_cover.jpeg",
+          "cover":"/images/background/gray-color-cotton-texture-surface-background_cover.jpeg"
         },
         {
           "uid":"2eb0563d8e2d45ca9e8bc8a2944ce164",
           "name":"green-dirty-blackboard",
           "path":"/images/background/green-dirty-blackboard.jpeg",
-          "cover":"/images/background/green-dirty-blackboard_cover.jpeg",
+          "cover":"/images/background/green-dirty-blackboard_cover.jpeg"
         },
         {
           "uid":"9b7215cb18ba4338b25c00457ebb79be",
           "name":"white-concrete-wall",
           "path":"/images/background/white-concrete-walljpeg",
-          "cover":"/images/background/white-concrete-wall_cover.jpeg",
+          "cover":"/images/background/white-concrete-wall_cover.jpeg"
         },
         {
           "uid":"987ba61b04c845e88545b3858f518fb5",
           "name":"wooden-floor-background",
           "path":"/images/background/wooden-floor-background.jpeg",
-          "cover":"/images/background/wooden-floor-background_cover.jpeg",
-        },
+          "cover":"/images/background/wooden-floor-background_cover.jpeg"
+        }
     ]
 }
