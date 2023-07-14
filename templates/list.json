@@ -1,4 +1,14 @@
 {
     "bucket":"https://describble.github.io/templates",
-    "list" : []
+    "list" : [
+        {
+            "uid":"100",
+            "name":"Introduce Yourself",
+            "size":4825502,
+            "duration":82000,
+            "archive":"introduce_yourself.scribir",
+            "thumb":"introduce_yourself.jpg",
+            "ratio":1.77777777
+          }
+    ]
 }
