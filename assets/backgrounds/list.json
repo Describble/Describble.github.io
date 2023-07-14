@@ -48,6 +48,68 @@
           "name":"wooden-floor-background",
           "path":"/images/background/wooden-floor-background.jpeg",
           "cover":"/images/background/wooden-floor-background_cover.jpeg"
+        },
+
+        
+        {
+          "uid":"39cf0b4f951e4fd0a5bc80add3b265d9",
+          "name":"Seamless1",
+          "path":"/images/background/Seamless1.jpg",
+          "cover":"/images/background/Seamless1_cover.jpg"
+        },
+        {
+          "uid":"c432baeae54941a6bba4d75a33a015cb",
+          "name":"Seamless2",
+          "path":"/images/background/Seamless2.jpg",
+          "cover":"/images/background/Seamless2_cover.jpg"
+        },
+        {
+          "uid":"e66a550729804666a7f5f381e80a7e0b",
+          "name":"Seamless3",
+          "path":"/images/background/Seamless3.jpg",
+          "cover":"/images/background/Seamless3_cover.jpg"
+        },
+        {
+          "uid":"8c4f217de3bf44af887f5b000925dfcf",
+          "name":"Seamless4",
+          "path":"/images/background/Seamless4.jpg",
+          "cover":"/images/background/Seamless4_cover.jpg"
+        },
+        {
+          "uid":"25e21c0153714093b9e0ea78f5018107",
+          "name":"Seamless5",
+          "path":"/images/background/Seamless5.jpg",
+          "cover":"/images/background/Seamless5_cover.jpg"
+        },
+        {
+          "uid":"767cbfe433bf480ba7026bdaacdc5b7f",
+          "name":"Seamless6",
+          "path":"/images/background/Seamless6.jpg",
+          "cover":"/images/background/Seamless6_cover.jpg"
+        },
+        {
+          "uid":"697e180e05ee4a2ea14e2d4ba0db2a36",
+          "name":"Seamless7",
+          "path":"/images/background/Seamless7.jpg",
+          "cover":"/images/background/Seamless7_cover.jpg"
+        },
+        {
+          "uid":"758d571542ee4526866ccd00e8125499",
+          "name":"Seamless8",
+          "path":"/images/background/Seamless8.jpg",
+          "cover":"/images/background/Seamless8_cover.jpg"
+        },
+        {
+          "uid":"c458a7271b7d466085a9b77c7f282e7f",
+          "name":"Seamless9",
+          "path":"/images/background/Seamless9.jpg",
+          "cover":"/images/background/Seamless9_cover.jpg"
+        },
+        {
+          "uid":"9b826748196e408dbc311af4b882054b",
+          "name":"Seamless10",
+          "path":"/images/background/Seamless10.jpg",
+          "cover":"/images/background/Seamless10_cover.jpg"
         }
     ]
 }
