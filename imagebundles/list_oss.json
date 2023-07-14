@@ -8,13 +8,5 @@
           "cover":"https://describble.github.io/imagebundles/assets/images/emoji_icon_bundle_cover.jpg",
           "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/Emojis.zip",
         },
-        {
-          "uid":"391aed7cae554f79b1a1e481d3bd92fb",
-          "name":"GIFs",
-          "size":"21.1 MB",
-          "description":"This image package contains over 400 GIF images.",
-          "cover":"",
-          "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/GIFs.zip",
-        },
     ]
 }
