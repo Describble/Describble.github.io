@@ -1,0 +1,122 @@
+{
+    "bucket":"https://describble.github.io/templates",
+    "list" : [
+        {
+          "uid":"13",
+          "name":"Graffiti - Theme",
+          "size":6928568,
+          "duration":88000,
+          "archive":"graffiti_theme.scribir",
+          "thumb":"graffiti_theme.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"12",
+          "name":"Whiteboard Explainer - Green Collage",
+          "size":605004,
+          "duration":44000,
+          "archive":"whiteboard_explainer_green_collage.scribir",
+          "thumb":"whiteboard_explainer_green_collage.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"9",
+          "name":"Good Egg Easter Greeting",
+          "size":1711937,
+          "duration":16000,
+          "archive":"good_egg_easter_greeting.scribir",
+          "thumb":"good_egg_easter_greeting.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"11",
+          "name":"Whiteboard - Explainer Collage",
+          "size":3569060,
+          "duration":137000,
+          "archive":"whiteboard_explainer_collage.scribir",
+          "thumb":"whiteboard_explainer_collage.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"10",
+          "name":"7-Point Whiteboard Story - Progress",
+          "size":5249618,
+          "duration":187000,
+          "archive":"7_point_whiteboard_story_progress.scribir",
+          "thumb":"7_point_whiteboard_story_progress.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"8",
+          "name":"Whiteboard Process - Writing",
+          "size":5373045,
+          "duration":210000,
+          "archive":"whiteboard_process_writing.scribir",
+          "thumb":"whiteboard_process_writing.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"7",
+          "name":"7-Point Whiteboard Story - Narrative",
+          "size":5079643,
+          "duration":180000,
+          "archive":"7_point_whiteboard_story_narrative.scribir",
+          "thumb":"7_point_whiteboard_story_narrative.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"1",
+          "name":"Happy Mother's Day",
+          "size":1861442,
+          "duration":11000,
+          "archive":"happy_mothers_day.scribir",
+          "thumb":"happy_mothers_day.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"6",
+          "name":"To The Best Mother",
+          "size":1140492,
+          "duration":130000,
+          "archive":"to_the_best_mother.scribir",
+          "thumb":"to_the_best_mother.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"2",
+          "name":"Inspiring Women",
+          "size":2791034,
+          "duration":91000,
+          "archive":"inspiring_women.scribir",
+          "thumb":"inspiring_women.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"3",
+          "name":"International Women's Day",
+          "size":599331,
+          "duration":10000,
+          "archive":"international_womens_day.scribir",
+          "thumb":"international_womens_day.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"4",
+          "name":"Introduce Yourself",
+          "size":2257804,
+          "duration":82000,
+          "archive":"introduce_yourself.scribir",
+          "thumb":"introduce_yourself.jpg",
+          "ratio":1.77777777
+        },
+        {
+          "uid":"5",
+          "name":"Stay Safe",
+          "size":3367994,
+          "duration":123000,
+          "archive":"stay_safe.scribir",
+          "thumb":"stay_safe.jpg",
+          "ratio":1.77777777
+        }
+    ]
+}
