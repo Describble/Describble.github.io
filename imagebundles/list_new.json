@@ -8,6 +8,7 @@
           "cover":"https://describble.github.io/imagebundles/assets/images/vs_package_cover.jpg",
           "download":"https://www.dropbox.com/s/ohvacosq44th73b/videoscribe.zip?dl=1",
           "pro":true,
+          "vs":true,
         },
         {
           "uid":"4a78fc094fc24487ae7a5453478c6603",
@@ -16,6 +17,7 @@
           "description":"Selected images for VideoScribe's image library.",
           "cover":"https://describble.github.io/imagebundles/assets/images/vs_package_cover.jpg",
           "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/Scribbles.zip",
+          "vs":true,
         },
         {
           "uid":"5b29840ab1cb49249d0d1d0bccf5cb0a",
@@ -32,6 +34,7 @@
           "description":"This image package contains over 400 GIF images.",
           "cover":"",
           "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/GIFs.zip",
+          "vs":true,
         },
         {
           "uid":"b35b2c4a515f443e96b35c5f568d2782",
