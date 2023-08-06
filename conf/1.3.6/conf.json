@@ -2,5 +2,5 @@
     "in_review":true,
     "enable_unsplash":false,
     "enable_removebg":false,
-    "enable_openclipart":false
+    "enable_openclipart":true
 }
