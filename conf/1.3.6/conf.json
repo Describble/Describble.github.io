@@ -1,6 +1,6 @@
 {
-    "in_review":true,
-    "enable_unsplash":false,
-    "enable_removebg":false,
-    "enable_openclipart":false
+    "in_review":false,
+    "enable_unsplash":true,
+    "enable_removebg":true,
+    "enable_openclipart":true
 }
