@@ -15,6 +15,14 @@
           "description":"This package contains 750 black and white sketch images.",
           "cover":"https://describble.github.io/imagebundles/assets/images/sketch_package_cover.jpg",
           "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/Sketches.zip",
+        },
+        {
+          "uid":"55c2f52eab034129a1b6c82219ede73e",
+          "name":"People",
+          "size":"11.2 MB",
+          "description":"This package contains 400+ character images.",
+          "cover":"https://describble.github.io/imagebundles/assets/images/sketch_package_cover.jpg",
+          "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/People.zip",
         }
     ]
 }
