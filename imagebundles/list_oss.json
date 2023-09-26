@@ -23,6 +23,14 @@
           "description":"This package contains 400+ character images.",
           "cover":"https://describble.github.io/imagebundles/assets/images/people_package_cover.jpg",
           "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/People.zip",
+        },
+        {
+          "uid":"e8b49d5899cf49099628906200a4458f",
+          "name":"Doodles",
+          "size":"287.2 MB",
+          "description":"This package contains 5000+ black and white doodle images.",
+          "cover":"https://describble.github.io/imagebundles/assets/images/people_package_cover.jpg",
+          "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/Doodles.zip",
         }
     ]
 }
