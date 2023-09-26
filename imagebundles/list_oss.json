@@ -31,6 +31,7 @@
           "description":"This package contains 5000+ black and white doodle images.",
           "cover":"https://describble.github.io/imagebundles/assets/images/doodles_package_cover.jpg",
           "download":"https://flixcribir-assets.oss-us-east-1.aliyuncs.com/imagebundle/Doodles.zip",
+          "pro":true,
         }
     ]
 }
